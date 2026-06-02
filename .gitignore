@@ -1,0 +1,17 @@
+node_modules/
+**/node_modules/
+dist/
+build/
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+frontend/node_modules/.vite/
+backend/.env
+
+# Environment files
+backend/.env
+frontend/.env
+.env
+.env.local

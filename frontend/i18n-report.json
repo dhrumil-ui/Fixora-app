@@ -1,0 +1,1346 @@
+[
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "p === 1 || p === totalPages || Math.abs(p - page)",
+    "type": "JSX text",
+    "line": 70
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "No bookings yet.",
+    "type": "JSX text",
+    "line": 2081
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 2333
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Reason:",
+    "type": "JSX text",
+    "line": 2610
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Note:",
+    "type": "JSX text",
+    "line": 2616
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "No completed jobs yet.",
+    "type": "JSX text",
+    "line": 2760
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Full Name",
+    "type": "JSX text",
+    "line": 2939
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Working Days",
+    "type": "JSX text",
+    "line": 3001
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Start Time",
+    "type": "JSX text",
+    "line": 3054
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "End Time",
+    "type": "JSX text",
+    "line": 3063
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Service Name",
+    "type": "JSX text",
+    "line": 3433
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Select category",
+    "type": "JSX text",
+    "line": 3449
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Pricing Type",
+    "type": "JSX text",
+    "line": 3460
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Quick Tip",
+    "type": "JSX text",
+    "line": 3593
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Your service becomes visible to customers.",
+    "type": "JSX text",
+    "line": 3646
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Customers can book you.",
+    "type": "JSX text",
+    "line": 3647
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "You’ll see bookings in “Job Requests”.",
+    "type": "JSX text",
+    "line": 3648
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 3727
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Customer:",
+    "type": "JSX text",
+    "line": 3826
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "New Date",
+    "type": "JSX text",
+    "line": 4048
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "New Time",
+    "type": "JSX text",
+    "line": 4061
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Service Name",
+    "type": "JSX text",
+    "line": 4189
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Select category",
+    "type": "JSX text",
+    "line": 4204
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Price ($)",
+    "type": "JSX text",
+    "line": 4221
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Confirm Password",
+    "type": "JSX text",
+    "line": 4363
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Explain what happened or how you will fix this...",
+    "type": "placeholder attr",
+    "line": 791
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Search bookings...",
+    "type": "placeholder attr",
+    "line": 2293
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Search earnings...",
+    "type": "placeholder attr",
+    "line": 2838
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Enter full name",
+    "type": "placeholder attr",
+    "line": 2944
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Enter email",
+    "type": "placeholder attr",
+    "line": 2954
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Enter phone number",
+    "type": "placeholder attr",
+    "line": 2965
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "address, city, state, zip",
+    "type": "placeholder attr",
+    "line": 2975
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Search services...",
+    "type": "placeholder attr",
+    "line": 3243
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "e.g. Leak Repair, Deep Cleaning",
+    "type": "placeholder attr",
+    "line": 3437
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Enter your password",
+    "type": "placeholder attr",
+    "line": 4368
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "This Week",
+    "type": "title attr",
+    "line": 1829
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "This Month",
+    "type": "title attr",
+    "line": 1834
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Total Earnings",
+    "type": "title attr",
+    "line": 1839
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "My Rating",
+    "type": "title attr",
+    "line": 1844
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Job Requests",
+    "type": "label attr",
+    "line": 1685
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "My Services",
+    "type": "label attr",
+    "line": 1710
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "Add Service",
+    "type": "label attr",
+    "line": 1720
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "⚠️ Issues",
+    "type": "label attr",
+    "line": 1725
+  },
+  {
+    "file": "src/app/pages/ProviderDashboard.tsx",
+    "text": "✅ Payment done — stopping location sharing",
+    "type": "toast/alert",
+    "line": 1107
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "p === 1 || p === totalPages || Math.abs(p - page)",
+    "type": "JSX text",
+    "line": 172
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Admin Portal",
+    "type": "JSX text",
+    "line": 981
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Platform Manager",
+    "type": "JSX text",
+    "line": 1010
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "growing well",
+    "type": "JSX text",
+    "line": 1170
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "grow together",
+    "type": "JSX text",
+    "line": 1176
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "vs last month",
+    "type": "JSX text",
+    "line": 1238
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "All Roles",
+    "type": "JSX text",
+    "line": 1826
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 1863
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 2009
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 2170
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "All Status",
+    "type": "JSX text",
+    "line": 2293
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 2333
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "All Payments",
+    "type": "JSX text",
+    "line": 2480
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 2502
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 2617
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 2751
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 2959
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 3138
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "e.g. 50",
+    "type": "placeholder attr",
+    "line": 329
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Search...",
+    "type": "placeholder attr",
+    "line": 1837
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Search providers...",
+    "type": "placeholder attr",
+    "line": 1995
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Search users...",
+    "type": "placeholder attr",
+    "line": 2156
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Search...",
+    "type": "placeholder attr",
+    "line": 2307
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Search services...",
+    "type": "placeholder attr",
+    "line": 2737
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Search categories...",
+    "type": "placeholder attr",
+    "line": 2871
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Category name",
+    "type": "placeholder attr",
+    "line": 2888
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Icon (optional)",
+    "type": "placeholder attr",
+    "line": 2895
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Search reviews...",
+    "type": "placeholder attr",
+    "line": 3124
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Cancel resolution",
+    "type": "title attr",
+    "line": 356
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Close sidebar",
+    "type": "title attr",
+    "line": 987
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Toggle sidebar menu",
+    "type": "title attr",
+    "line": 1098
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Cancel resolution",
+    "type": "label attr",
+    "line": 357
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Close sidebar",
+    "type": "label attr",
+    "line": 986
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Toggle sidebar menu",
+    "type": "label attr",
+    "line": 1099
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Cancel resolution",
+    "type": "aria-label attr",
+    "line": 357
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Close sidebar",
+    "type": "aria-label attr",
+    "line": 986
+  },
+  {
+    "file": "src/app/pages/AdminDashboard.tsx",
+    "text": "Toggle sidebar menu",
+    "type": "aria-label attr",
+    "line": 1099
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "0 && value.length",
+    "type": "JSX text",
+    "line": 84
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "1. Agreement to Terms",
+    "type": "JSX text",
+    "line": 416
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "3. User Accounts",
+    "type": "JSX text",
+    "line": 437
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "7. Prohibited Conduct",
+    "type": "JSX text",
+    "line": 479
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "9. Dispute Resolution",
+    "type": "JSX text",
+    "line": 500
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "10. Changes to Terms",
+    "type": "JSX text",
+    "line": 509
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "11. Contact Us",
+    "type": "JSX text",
+    "line": 517
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "Account Information:",
+    "type": "JSX text",
+    "line": 563
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "Profile Information:",
+    "type": "JSX text",
+    "line": 565
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "Transaction Data:",
+    "type": "JSX text",
+    "line": 567
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "Usage Data:",
+    "type": "JSX text",
+    "line": 569
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "With Providers:",
+    "type": "JSX text",
+    "line": 598
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "With Customers:",
+    "type": "JSX text",
+    "line": 600
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "Legal Requirements:",
+    "type": "JSX text",
+    "line": 602
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "4. Data Security",
+    "type": "JSX text",
+    "line": 609
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "6. Your Rights",
+    "type": "JSX text",
+    "line": 637
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "7. Data Retention",
+    "type": "JSX text",
+    "line": 653
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "8. Children's Privacy",
+    "type": "JSX text",
+    "line": 662
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "10. Contact Us",
+    "type": "JSX text",
+    "line": 682
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "John Doe",
+    "type": "placeholder attr",
+    "line": 193
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "you@example.com",
+    "type": "placeholder attr",
+    "line": 214
+  },
+  {
+    "file": "src/app/pages/Signup.tsx",
+    "text": "Agree to Terms of Service and Privacy Policy",
+    "type": "title attr",
+    "line": 341
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Report an Issue",
+    "type": "JSX text",
+    "line": 328
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Issue Reported!",
+    "type": "JSX text",
+    "line": 344
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "p === 1 || p === totalPages || Math.abs(p - page)",
+    "type": "JSX text",
+    "line": 455
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Select reason",
+    "type": "JSX text",
+    "line": 1100
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Note:",
+    "type": "JSX text",
+    "line": 1296
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Customer Portal",
+    "type": "JSX text",
+    "line": 1468
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Active Bookings",
+    "type": "JSX text",
+    "line": 1489
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Total Spent",
+    "type": "JSX text",
+    "line": 1495
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Premium Member",
+    "type": "JSX text",
+    "line": 1556
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Active Bookings",
+    "type": "JSX text",
+    "line": 1561
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Total Spent",
+    "type": "JSX text",
+    "line": 1567
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Loading bookings...",
+    "type": "JSX text",
+    "line": 1639
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "No active bookings",
+    "type": "JSX text",
+    "line": 1643
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 1797
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 1834
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 1857
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Share your experience with this provider...",
+    "type": "placeholder attr",
+    "line": 234
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Describe what happened in detail...",
+    "type": "placeholder attr",
+    "line": 394
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Write your message to provider",
+    "type": "placeholder attr",
+    "line": 1116
+  },
+  {
+    "file": "src/app/pages/CustomerDashboard.tsx",
+    "text": "Enter your password",
+    "type": "placeholder attr",
+    "line": 2182
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Customer Reviews",
+    "type": "JSX text",
+    "line": 486
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "✅ Verified Provider",
+    "type": "JSX text",
+    "line": 726
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "&copy; 2026 Fixora. All rights reserved.",
+    "type": "JSX text",
+    "line": 949
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Last updated: January 2026",
+    "type": "JSX text",
+    "line": 963
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Last updated: January 2026",
+    "type": "JSX text",
+    "line": 1080
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Connect customers with service providers",
+    "type": "JSX text",
+    "line": 1098
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Process payments and manage bookings",
+    "type": "JSX text",
+    "line": 1099
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Send notifications about your bookings",
+    "type": "JSX text",
+    "line": 1100
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Improve Platform functionality and user experience",
+    "type": "JSX text",
+    "line": 1101
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Prevent fraud and ensure safety",
+    "type": "JSX text",
+    "line": 1102
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Access and download your personal data",
+    "type": "JSX text",
+    "line": 1156
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Update or correct your information",
+    "type": "JSX text",
+    "line": 1157
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Deactivate your account at any time",
+    "type": "JSX text",
+    "line": 1158
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Request deletion of your data",
+    "type": "JSX text",
+    "line": 1159
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "What service do you need?",
+    "type": "placeholder attr",
+    "line": 514
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Your location",
+    "type": "placeholder attr",
+    "line": 528
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Terms of Service",
+    "type": "title attr",
+    "line": 960
+  },
+  {
+    "file": "src/app/pages/LandingPage.tsx",
+    "text": "Privacy Policy",
+    "type": "title attr",
+    "line": 1077
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "Complete Provider Profile",
+    "type": "JSX text",
+    "line": 102
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "What happens after submit?",
+    "type": "JSX text",
+    "line": 255
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "pending verification",
+    "type": "JSX text",
+    "line": 258
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "first service",
+    "type": "JSX text",
+    "line": 262
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "Find Services",
+    "type": "JSX text",
+    "line": 265
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "Tip:",
+    "type": "JSX text",
+    "line": 278
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "e.g. 2011234567",
+    "type": "placeholder attr",
+    "line": 151
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "12 Main St",
+    "type": "placeholder attr",
+    "line": 170
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "Phone *",
+    "type": "label attr",
+    "line": 146
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "SSN Last 4 *",
+    "type": "label attr",
+    "line": 155
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "Address Line 1 *",
+    "type": "label attr",
+    "line": 165
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "City *",
+    "type": "label attr",
+    "line": 181
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "State *",
+    "type": "label attr",
+    "line": 189
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "Zip *",
+    "type": "label attr",
+    "line": 197
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "Photo URL",
+    "type": "label attr",
+    "line": 211
+  },
+  {
+    "file": "src/app/pages/ProviderOnboarding.tsx",
+    "text": "Verification Document URL",
+    "type": "label attr",
+    "line": 220
+  },
+  {
+    "file": "src/app/pages/ProviderProfile.tsx",
+    "text": "= start && slot",
+    "type": "JSX text",
+    "line": 174
+  },
+  {
+    "file": "src/app/pages/ProviderProfile.tsx",
+    "text": "2.3 km away",
+    "type": "JSX text",
+    "line": 404
+  },
+  {
+    "file": "src/app/pages/ProviderProfile.tsx",
+    "text": "No services listed yet.",
+    "type": "JSX text",
+    "line": 446
+  },
+  {
+    "file": "src/app/pages/ProviderProfile.tsx",
+    "text": "Loading reviews...",
+    "type": "JSX text",
+    "line": 603
+  },
+  {
+    "file": "src/app/pages/ProviderProfile.tsx",
+    "text": "Starting from",
+    "type": "JSX text",
+    "line": 664
+  },
+  {
+    "file": "src/app/pages/ProviderProfile.tsx",
+    "text": "Street, City, State",
+    "type": "placeholder attr",
+    "line": 751
+  },
+  {
+    "file": "src/app/pages/ProviderProfile.tsx",
+    "text": "Optional notes for provider",
+    "type": "placeholder attr",
+    "line": 761
+  },
+  {
+    "file": "src/app/pages/ProviderProfile.tsx",
+    "text": "Provider id missing",
+    "type": "toast/alert",
+    "line": 208
+  },
+  {
+    "file": "src/app/pages/ProviderProfile.tsx",
+    "text": "Provider not found or not visible yet.",
+    "type": "toast/alert",
+    "line": 221
+  },
+  {
+    "file": "src/app/pages/ProviderProfile.tsx",
+    "text": "Provider data missing",
+    "type": "toast/alert",
+    "line": 226
+  },
+  {
+    "file": "src/app/pages/ServiceListing.tsx",
+    "text": "= minRating && price",
+    "type": "JSX text",
+    "line": 102
+  },
+  {
+    "file": "src/app/pages/ServiceListing.tsx",
+    "text": "Any rating",
+    "type": "JSX text",
+    "line": 170
+  },
+  {
+    "file": "src/app/pages/ServiceListing.tsx",
+    "text": "3+ stars",
+    "type": "JSX text",
+    "line": 171
+  },
+  {
+    "file": "src/app/pages/ServiceListing.tsx",
+    "text": "3.5+ stars",
+    "type": "JSX text",
+    "line": 172
+  },
+  {
+    "file": "src/app/pages/ServiceListing.tsx",
+    "text": "4+ stars",
+    "type": "JSX text",
+    "line": 173
+  },
+  {
+    "file": "src/app/pages/ServiceListing.tsx",
+    "text": "4.5+ stars",
+    "type": "JSX text",
+    "line": 174
+  },
+  {
+    "file": "src/app/pages/ServiceListing.tsx",
+    "text": "Search services...",
+    "type": "placeholder attr",
+    "line": 154
+  },
+  {
+    "file": "src/app/pages/ServiceListing.tsx",
+    "text": "Any price",
+    "type": "placeholder attr",
+    "line": 190
+  },
+  {
+    "file": "src/app/pages/ServiceListing.tsx",
+    "text": "category_id:",
+    "type": "toast/alert",
+    "line": 88
+  },
+  {
+    "file": "src/app/components/ui/sidebar.tsx",
+    "text": "Displays the mobile sidebar.",
+    "type": "JSX text",
+    "line": 200
+  },
+  {
+    "file": "src/app/components/ui/sidebar.tsx",
+    "text": "Toggle Sidebar",
+    "type": "JSX text",
+    "line": 277
+  },
+  {
+    "file": "src/app/components/ui/sidebar.tsx",
+    "text": "Toggle Sidebar",
+    "type": "title attr",
+    "line": 292
+  },
+  {
+    "file": "src/app/components/ui/sidebar.tsx",
+    "text": "Toggle Sidebar",
+    "type": "label attr",
+    "line": 289
+  },
+  {
+    "file": "src/app/components/ui/sidebar.tsx",
+    "text": "Toggle Sidebar",
+    "type": "aria-label attr",
+    "line": 289
+  },
+  {
+    "file": "src/app/components/ui/sidebar.tsx",
+    "text": "useSidebar must be used within a SidebarProvider.",
+    "type": "toast/alert",
+    "line": 50
+  },
+  {
+    "file": "src/app/pages/Contactpage.tsx",
+    "text": "Quick Response",
+    "type": "JSX text",
+    "line": 136
+  },
+  {
+    "file": "src/app/pages/Contactpage.tsx",
+    "text": "&copy; 2026 Fixora. All rights reserved.",
+    "type": "JSX text",
+    "line": 267
+  },
+  {
+    "file": "src/app/pages/Contactpage.tsx",
+    "text": "Your full name",
+    "type": "placeholder attr",
+    "line": 193
+  },
+  {
+    "file": "src/app/pages/Contactpage.tsx",
+    "text": "you@example.com",
+    "type": "placeholder attr",
+    "line": 208
+  },
+  {
+    "file": "src/app/pages/Contactpage.tsx",
+    "text": "How can we help?",
+    "type": "placeholder attr",
+    "line": 223
+  },
+  {
+    "file": "src/app/pages/Contactpage.tsx",
+    "text": "Tell us about your inquiry...",
+    "type": "placeholder attr",
+    "line": 238
+  },
+  {
+    "file": "src/app/components/ui/pagination.tsx",
+    "text": "More pages",
+    "type": "JSX text",
+    "line": 114
+  },
+  {
+    "file": "src/app/components/ui/pagination.tsx",
+    "text": "Go to previous page",
+    "type": "label attr",
+    "line": 74
+  },
+  {
+    "file": "src/app/components/ui/pagination.tsx",
+    "text": "Go to next page",
+    "type": "label attr",
+    "line": 91
+  },
+  {
+    "file": "src/app/components/ui/pagination.tsx",
+    "text": "Go to previous page",
+    "type": "aria-label attr",
+    "line": 74
+  },
+  {
+    "file": "src/app/components/ui/pagination.tsx",
+    "text": "Go to next page",
+    "type": "aria-label attr",
+    "line": 91
+  },
+  {
+    "file": "src/app/pages/Helppage.tsx",
+    "text": "Contact Us",
+    "type": "JSX text",
+    "line": 289
+  },
+  {
+    "file": "src/app/pages/Helppage.tsx",
+    "text": "Email Support",
+    "type": "JSX text",
+    "line": 299
+  },
+  {
+    "file": "src/app/pages/Helppage.tsx",
+    "text": "support@fixora.com",
+    "type": "JSX text",
+    "line": 300
+  },
+  {
+    "file": "src/app/pages/Helppage.tsx",
+    "text": "&copy; 2026 Fixora. All rights reserved.",
+    "type": "JSX text",
+    "line": 310
+  },
+  {
+    "file": "src/app/pages/Helppage.tsx",
+    "text": "Search help articles...",
+    "type": "placeholder attr",
+    "line": 159
+  },
+  {
+    "file": "src/app/lib/api.tsx",
+    "text": "(path: string): Promise",
+    "type": "JSX text",
+    "line": 27
+  },
+  {
+    "file": "src/app/lib/api.tsx",
+    "text": "(path: string, body?: any): Promise",
+    "type": "JSX text",
+    "line": 36
+  },
+  {
+    "file": "src/app/lib/api.tsx",
+    "text": "(path: string, body?: any): Promise",
+    "type": "JSX text",
+    "line": 47
+  },
+  {
+    "file": "src/app/lib/api.tsx",
+    "text": "(path: string): Promise",
+    "type": "JSX text",
+    "line": 58
+  },
+  {
+    "file": "src/app/pages/RoleSelection.tsx",
+    "text": "Choose Your Role",
+    "type": "JSX text",
+    "line": 25
+  },
+  {
+    "file": "src/app/pages/RoleSelection.tsx",
+    "text": "Select how you want to use Fixora",
+    "type": "JSX text",
+    "line": 26
+  },
+  {
+    "file": "src/app/pages/RoleSelection.tsx",
+    "text": "I'm a Customer",
+    "type": "JSX text",
+    "line": 38
+  },
+  {
+    "file": "src/app/pages/RoleSelection.tsx",
+    "text": "I'm a Service Provider",
+    "type": "JSX text",
+    "line": 70
+  },
+  {
+    "file": "src/app/components/ui/carousel.tsx",
+    "text": "Previous slide",
+    "type": "JSX text",
+    "line": 199
+  },
+  {
+    "file": "src/app/components/ui/carousel.tsx",
+    "text": "Next slide",
+    "type": "JSX text",
+    "line": 229
+  },
+  {
+    "file": "src/app/components/ui/carousel.tsx",
+    "text": "useCarousel must be used within a <Carousel />",
+    "type": "toast/alert",
+    "line": 39
+  },
+  {
+    "file": "src/app/components/ui/form.tsx",
+    "text": "= FieldPath",
+    "type": "JSX text",
+    "line": 23
+  },
+  {
+    "file": "src/app/components/ui/form.tsx",
+    "text": "= FieldPath",
+    "type": "JSX text",
+    "line": 34
+  },
+  {
+    "file": "src/app/components/ui/form.tsx",
+    "text": "useFormField should be used within <FormField>",
+    "type": "toast/alert",
+    "line": 53
+  },
+  {
+    "file": "src/app/components/PWAUpdatePrompt.tsx",
+    "text": "[PWA] Service worker registered:",
+    "type": "toast/alert",
+    "line": 20
+  },
+  {
+    "file": "src/app/components/PWAUpdatePrompt.tsx",
+    "text": "[PWA] App ready to work offline",
+    "type": "toast/alert",
+    "line": 26
+  },
+  {
+    "file": "src/app/pages/ResetPassword.tsx",
+    "text": "Enter your new password below",
+    "type": "JSX text",
+    "line": 69
+  },
+  {
+    "file": "src/app/pages/ResetPassword.tsx",
+    "text": "Redirecting to login...",
+    "type": "JSX text",
+    "line": 79
+  },
+  {
+    "file": "src/app/components/Layout.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 121
+  },
+  {
+    "file": "src/app/components/figma/ImageWithFallback.tsx",
+    "text": "Error loading image",
+    "type": "alt attr",
+    "line": 21
+  },
+  {
+    "file": "src/app/components/ui/alert.tsx",
+    "text": "& VariantProps",
+    "type": "JSX text",
+    "line": 26
+  },
+  {
+    "file": "src/app/components/ui/chart.tsx",
+    "text": "useChart must be used within a <ChartContainer />",
+    "type": "toast/alert",
+    "line": 31
+  },
+  {
+    "file": "src/app/pages/Aboutpage.tsx",
+    "text": "&copy; 2026 Fixora. All rights reserved.",
+    "type": "JSX text",
+    "line": 204
+  },
+  {
+    "file": "src/app/pages/ForgotPassword.tsx",
+    "text": "you@example.com",
+    "type": "placeholder attr",
+    "line": 84
+  },
+  {
+    "file": "src/app/pages/Login.tsx",
+    "text": "you@example.com",
+    "type": "placeholder attr",
+    "line": 103
+  },
+  {
+    "file": "src/app/pages/VerifyEmail.tsx",
+    "text": "Loading...",
+    "type": "JSX text",
+    "line": 83
+  }
+]
