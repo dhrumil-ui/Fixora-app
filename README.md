@@ -1,7 +1,6 @@
 # Fixora — Home Services SaaS Platform
 
-A full-stack, production-ready SaaS platform connecting homeowners with trusted service providers.
-
+A Full-stack marketplace connecting homeowners with service providers.
 🌐 **Live Demo:** [fixora.guru](https://fixora.guru)
 
 ---
