@@ -4,6 +4,9 @@ dist/
 build/
 .env
 .env.*
+# Templates carry no secrets and must stay tracked.
+!.env.example
+!**/.env.example
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
